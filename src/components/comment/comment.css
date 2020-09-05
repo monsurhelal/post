@@ -1,0 +1,16 @@
+.commentAria {
+    width: 600px;
+    background: #5fd864;
+    padding: 10px 20px;
+    margin: 29px 0px 28px -22px;
+    border-radius: 50px 3px 50px 3px;
+    color: white;
+}
+p.email {
+    color: #243836;
+    font-weight: 600;
+}
+
+p.email:hover {
+    color: #c1871d;
+}
